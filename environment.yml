@@ -1,0 +1,10 @@
+name: 573-mile2-env
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - conda-lock
+prefix: C:\Users\maras\miniforge3\envs\573-mile2-env
