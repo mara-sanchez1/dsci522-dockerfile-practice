@@ -7,4 +7,3 @@ dependencies:
   - numpy
   - pandas
   - conda-lock
-prefix: C:\Users\maras\miniforge3\envs\573-mile2-env
